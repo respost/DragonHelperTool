@@ -1,0 +1,8 @@
+E:\C#\传奇辅助\传奇辅助\bin\Debug\神龙辅助工具.exe
+E:\C#\传奇辅助\传奇辅助\bin\Debug\神龙辅助工具.pdb
+E:\C#\传奇辅助\传奇辅助\bin\Debug\Newtonsoft.Json.dll
+E:\C#\传奇辅助\传奇辅助\obj\x86\Debug\传奇辅助.Form1.resources
+E:\C#\传奇辅助\传奇辅助\obj\x86\Debug\神龙辅助工具.Properties.Resources.resources
+E:\C#\传奇辅助\传奇辅助\obj\x86\Debug\传奇辅助.csproj.GenerateResource.Cache
+E:\C#\传奇辅助\传奇辅助\obj\x86\Debug\神龙辅助工具.exe
+E:\C#\传奇辅助\传奇辅助\obj\x86\Debug\神龙辅助工具.pdb
